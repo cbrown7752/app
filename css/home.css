@@ -1,12 +1,7 @@
    .anchor:target {
       scroll-margin-top: 85px;
-      padding-top: 85px;
  }
    :target {
      background-color: #add8e6;
 }
 
-   .link:target {
-      scroll-margin-top: 85px;
-      padding-top: 85px;
- }
