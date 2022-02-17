@@ -1,7 +1,6 @@
-   .anchor:target {
-      padding-top: 85px;
+   .anchor {
       scroll-margin-top: 85px;
  }
    :target {
-     background-color: #ffa;
+     background-color: #add8e6;
 }
